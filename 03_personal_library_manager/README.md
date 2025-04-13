@@ -36,7 +36,7 @@ Edit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/rubab-rafiq/personal-library-app.git
+git clone https://github.com/rubab-rafiq/Python-Projects/tree/main/03_personal_library_manager
 cd personal-library-app
 Install Streamlit:
 
